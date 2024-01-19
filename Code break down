@@ -1,1 +1,8 @@
 
+##User Input:
+
+<div>
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+The user is prompted to input their first and last names.
+</div>
