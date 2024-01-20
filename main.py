@@ -4,7 +4,6 @@ first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 
 
-
 def check_age(age):
     if 5 <= age <= 20:
         print(f"Hello{first_name}{last_name}. lest play a guess game")
@@ -21,4 +20,11 @@ while True:
           break
       except ValueError:
           print("Invalid age. Please enter a valid age")
+          
+
+answer = input("Enter your answer: ")
+if answer.lower() == "no":
+    exit()
+else:
+    print("I will think of a number, and you have to guess it")
           
