@@ -12,7 +12,7 @@ This was added to act as a form of knowing who the player is. You are being prop
 
 > Age verification -
 
-This was added to verify the perso age. I limited the age section from 5 to 20 years old. Within this age youu can play the game or u are exited if above the age limit 
+This was added to verify that a player is above 4 years old.  
 
 ## Basics Used
 
